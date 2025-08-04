@@ -1,6 +1,6 @@
 let numeroSecreto = generarNumeroSecreto();
 let intentos = 0;
-let listaNumerosSorteados =
+let listaNumerosSorteados = 0;
 
 function asignarTextoElemento(elemento, texto) {
     let elementoHTML = document.querySelector(elemento);
